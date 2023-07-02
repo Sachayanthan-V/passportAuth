@@ -1,0 +1,25 @@
+{
+  "name": "passportauth",
+  "version": "1.0.0",
+  "description": "practising a passport Authentication with some more possiblities and for more clairty by practise.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sachayanthan-V/passportAuth.git"
+  },
+  "keywords": [
+    "passport",
+    "auth",
+    "github",
+    "webauth"
+  ],
+  "author": "SachayanthanV",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sachayanthan-V/passportAuth/issues"
+  },
+  "homepage": "https://github.com/Sachayanthan-V/passportAuth#readme"
+}
